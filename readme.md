@@ -16,79 +16,57 @@ De este modo, y tras escribir en los comandos "git reflog", obtendremos un numer
 --
 
 **3. El merge del paso 13,¿Causó algún conflicto? ¿Porqué?**
-`git merge styled` 
-
-Juntamos las dos ramas en una.
+Sí, no es posible absorver a la clase *master*.
 
 --
 
 **4. El merge del paso 19,¿Causó algún conflicto? ¿Porqué?**
-`git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
+No ha creado ningún conflicto ya que ambas son ramas creadas por mi.
 
 --
 
 **5. El merge del paso 21,¿Causó algún conflicto? ¿Porqué?**
-`git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
+No, funcionó correctamente
 
 --
 
 **6. ¿Qué comando o comandos utilizaste en el paso 25?**
-`git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
+`git graph` 
 
 --
 
 **7. El merge del paso 26,¿Podría ser fast forward? ¿Porqué?**
-`git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
+Si, ya que al forzarlo lo realiza independientemente
 
 --
 
 **8.¿Qué comando o comandos utilizaste en el paso 27?**
-`git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
+`git reset 77f671cdecc24b41eb59b15f0dd6b260907ec5242` 
 
 --
 
 **9. ¿Qué comando o comandos utilizaste en el paso 28?**
-`git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
+`git commit --amend` 
 
 --
 
 **10. ¿Qué comando o comandos utilizaste en el paso 29?**
-`git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
+`git branch -d title` 
 
 --
 
 **11. ¿Qué comando o comandos utilizaste en el paso 30?**
-`git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
+`git reset --hard ad1070db84d5f3a65f1356a4b9b64f7c31a5cd3c` 
 
 --
 
 **12. ¿Qué comando o comandos usaste en el paso 32?**
 `git reset --hard HEAD~2` 
 
-Porque así bla, bla, bla, bla, bla, bla...
-
 --
 
 **13. ¿Qué comando o comandos usaste en el punto 33?**
 `git reset --hard HEAD~2` 
-
-Porque así bla, bla, bla, bla, bla, bla...
 
 --
 
