@@ -3,9 +3,9 @@
 ### Rumí, Silvia
 
 **1. ¿Qué comando utilizaste en el paso11? ¿Porqué?**
-`git reset --hard HEAD~2` 
+`git reset --hard HEAD~1` 
 
-Porque así bla, bla, bla, bla, bla, bla...
+Con esto deshacemos el último commit de forma que perdemos todo el contenido modificado
 
 --
 **2. ¿Qué comando o comandos utilizaste en el paso 12?¿Porqué?**
