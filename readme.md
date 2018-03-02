@@ -9,9 +9,9 @@ Con esto deshacemos el último commit de forma que perdemos todo el contenido mo
 
 --
 **2. ¿Qué comando o comandos utilizaste en el paso 12?¿Porqué?**
-`git reset --hard HEAD~2` 
+`git reset --hard b61b829` 
 
-Porque así bla, bla, bla, bla, bla, bla...
+De este modo, y tras escribir en los comandos "git reflog", obtendremos un numerito por cada commit realizado (en este caso *b61b829*). Escribiremos este comando y el número que especifica el commit al final.
 
 --
 
