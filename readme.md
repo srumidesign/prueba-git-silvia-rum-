@@ -16,9 +16,9 @@ De este modo, y tras escribir en los comandos "git reflog", obtendremos un numer
 --
 
 **3. El merge del paso 13,¿Causó algún conflicto? ¿Porqué?**
-`git reset --hard HEAD~2` 
+`git merge styled` 
 
-Porque así bla, bla, bla, bla, bla, bla...
+Juntamos las dos ramas en una.
 
 --
 
